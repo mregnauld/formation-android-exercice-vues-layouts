@@ -1,0 +1,24 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Vues Layout</string>
+
+	<!-- Main -->
+	<string name="main_titre_article">Lorem ipsum</string>
+	<string name="main_article">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu purus diam. Suspendisse nunc felis, tincidunt sed blandit non, maximus sit amet turpis. Phasellus lobortis tristique tortor, at dapibus eros rutrum non. Nullam pretium tellus sodales laoreet lobortis. Morbi ornare ornare varius. Morbi placerat tellus arcu, laoreet posuere felis feugiat cursus. Aenean id commodo urna. Nullam non massa neque.
+		\n\n
+		Curabitur a lacus ultrices, luctus metus in, bibendum metus. Morbi at finibus est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed laoreet elit in interdum congue. Curabitur vestibulum tortor in tincidunt feugiat. Donec vitae risus eget lorem facilisis ultricies vulputate non nisi. Nulla non tempor justo.
+		\n\n
+		Duis auctor est diam, sit amet lacinia nisi tincidunt vel. Morbi erat nibh, tempor eu molestie a, efficitur ut augue. Maecenas fermentum suscipit auctor. Nullam id ante ultrices, ornare augue vitae, lacinia nibh. Aenean pellentesque, nisl sit amet dapibus pellentesque, erat tortor aliquet ipsum, at commodo turpis lacus tincidunt dui. Sed in tristique est. Donec enim nisl, laoreet sed lacinia eget, lacinia rhoncus eros.
+		\n\n
+		Aliquam erat volutpat. Nullam sit amet dolor varius, venenatis dolor vitae, commodo ipsum. Quisque facilisis quam mollis sapien dictum mattis eu sit amet risus. Morbi urna leo, placerat venenatis auctor eget, tincidunt vel metus. Donec risus diam, sagittis eget felis vel, tincidunt hendrerit ante. Aenean tortor velit, tempus sed sagittis sed, tristique eget dui. Suspendisse ac ultricies nisl. Suspendisse sodales feugiat sodales. Praesent auctor est nisi, vel rhoncus quam fermentum sed. Aliquam erat volutpat. Nam nec dignissim justo, id iaculis tellus.
+		\n\n
+		Mauris aliquet dui id ornare placerat. Donec bibendum convallis urna vel aliquet. Duis purus libero, auctor ut blandit id, vestibulum at lectus. Pellentesque ultricies dignissim dapibus. Integer turpis ligula, lobortis pretium molestie sed, finibus non augue. Proin vehicula augue at imperdiet hendrerit. Vivamus sed accumsan nulla, vitae dictum quam. Quisque nisl est, semper eget magna nec, varius ultricies nisi. Duis eu elit eu nisl sollicitudin hendrerit.
+		\n
+	</string>
+	<string name="main_bouton_retour">Retour en haut</string>
+	<string name="main_bienvenue">Bienvenue !</string>
+	<string name="main_retour">Vous êtes revenu au début de l\'article !</string>
+
+</resources>

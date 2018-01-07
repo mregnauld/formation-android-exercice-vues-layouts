@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Main -->
+	<dimen name="main_taille_article">18sp</dimen>
+	<dimen name="main_marge_article">8dp</dimen>
+	<dimen name="main_hauteur_bouton_retour">56dp</dimen>
+
+</resources>

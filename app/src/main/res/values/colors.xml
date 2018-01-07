@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Commun -->
+	<color name="colorPrimary">#BE4431</color>
+	<color name="colorPrimaryDark">#A63B2B</color>
+	<color name="colorAccent">#FF4081</color>
+
+	<!-- Main -->
+	<color name="couleurMainArticle">#3C4266</color>
+	<color name="couleurMainBoutonRetour">#293366</color>
+
+</resources>
